@@ -1,0 +1,6 @@
+C:\Users\NameInikita\Documents\GIT\IO\IO\bin\Debug\IO.exe.config
+C:\Users\NameInikita\Documents\GIT\IO\IO\bin\Debug\IO.exe
+C:\Users\NameInikita\Documents\GIT\IO\IO\bin\Debug\IO.pdb
+C:\Users\NameInikita\Documents\GIT\IO\IO\obj\Debug\IO.csprojResolveAssemblyReference.cache
+C:\Users\NameInikita\Documents\GIT\IO\IO\obj\Debug\IO.exe
+C:\Users\NameInikita\Documents\GIT\IO\IO\obj\Debug\IO.pdb
